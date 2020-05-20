@@ -1,0 +1,13 @@
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\bin\Debug\netcoreapp3.1\UDP-Async-Server.exe
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\bin\Debug\netcoreapp3.1\UDP-Async-Server.deps.json
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\bin\Debug\netcoreapp3.1\UDP-Async-Server.runtimeconfig.json
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\bin\Debug\netcoreapp3.1\UDP-Async-Server.runtimeconfig.dev.json
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\bin\Debug\netcoreapp3.1\UDP-Async-Server.dll
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\bin\Debug\netcoreapp3.1\UDP-Async-Server.pdb
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.csprojAssemblyReference.cache
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.AssemblyInfoInputs.cache
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.AssemblyInfo.cs
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.dll
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.pdb
+C:\Users\halit\source\repos\UDP-Async-SERVER-CLIENT\UDP-Async-Server\obj\Debug\netcoreapp3.1\UDP-Async-Server.genruntimeconfig.cache
